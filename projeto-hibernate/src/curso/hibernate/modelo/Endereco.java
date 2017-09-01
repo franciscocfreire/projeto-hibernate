@@ -7,6 +7,7 @@ public class Endereco {
 
 	/*Endreco*/
 	private String logradouro;
+	/*Numero*/
 	private Integer numero;
 	private String cidade;
 
