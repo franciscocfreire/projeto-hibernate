@@ -5,6 +5,7 @@ import javax.persistence.Embeddable;
 @Embeddable
 public class Endereco {
 
+	/*Endreco*/
 	private String logradouro;
 	private Integer numero;
 	private String cidade;
